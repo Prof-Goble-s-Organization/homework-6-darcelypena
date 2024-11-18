@@ -4,7 +4,7 @@ import java.util.Random;
 
 //import COMP232ArrayHeap.HeapNode;
 
-public class HeapSort {
+public class HeapSort {  
 	
     public static void heapSort(Integer[] values) {
         

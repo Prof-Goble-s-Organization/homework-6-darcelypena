@@ -3,7 +3,7 @@
  * COMP232DoublyLinkedList class are protected fields and can be accessed
  * directly in this class.
  * 
- * @author William Goble
+ * @author William Goble 
  * @author Dickinson College
  * 
  */
