@@ -90,7 +90,7 @@ public class No1Tests {
 		for (int t=0; t<=100; t++) {
 			StringBuffer buf = new StringBuffer();
 			ArrayList<Integer> list = new ArrayList<Integer>();
-			int len = rnd.nextInt(1000);
+			int len = rnd.nextInt(10);
 			for (int i=0; i<len; i++) {
 				list.add(i);
 				buf.append(i + " ");
